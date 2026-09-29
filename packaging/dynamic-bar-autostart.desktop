@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Application
+Name=Dynamic Bar
+Exec=dynamic-bar
+X-GNOME-Autostart-enabled=true
